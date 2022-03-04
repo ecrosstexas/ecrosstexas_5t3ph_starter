@@ -52,5 +52,8 @@
   "browserslist": [
     "> 0.5%",
     "not IE 11"
-  ]
+  ],
+  "dependencies": {
+    "netlify-plugin-11ty": "^1.1.0"
+  }
 }
