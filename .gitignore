@@ -15,3 +15,6 @@ social
 
 #IDE
 .idea
+
+# 11ty Fetch
+.cache
